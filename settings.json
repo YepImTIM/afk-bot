@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "26.1.2 (68)",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Yepimtim1.aternos.me",
     "port": 59736,
-    "version": "",
+    "version": "26.1.2 (68)",
     "try-creative": false
   },
   "position": {
