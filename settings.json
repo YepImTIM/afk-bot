@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Yepimtim1.aternos.me",
+    "ip": "Yepimtim1.aternos.me:59736",
     "port": 59736,
     "version": "1.21.1",
     "try-creative": false
